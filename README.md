@@ -1,5 +1,7 @@
 # Datascrapping Table data from HTML and storing the data in csv format through Python
 
+In the application , I have used the link https://dte.maharashtra.gov.in/search-of-institute-results-2/?RegionID=6&RegionName=Pune from which I have fetched the data . There is the sample file which is goal for us 📝
+
 ## Step 1:
 ### Installation of the pre-requisite
 ```
